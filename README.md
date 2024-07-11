@@ -12,7 +12,8 @@ H&amp;M 고객∙매출∙제품∙구매이력 데이터 분석 및 시각화
 
 ### 프로젝트 결과 보고서
 아래의 분석 보고서에서 '5.2 H&M 고객 세그먼트 분석 및 마케팅 전략 수립' 파트를 담당했습니다. 
-[프로젝트 결과 보고서](file:///Users/seoyeonbee/Downloads/%EC%9B%94%EA%B0%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%202_4%ED%8C%802%EC%A1%B0_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+[프로젝트 결과 보고서](file:///Users/seoyeonbee/Desktop/seoyeonbee/devcourse_project_2/%E1%84%83%E1%85%A6%E1%84%87%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3_%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%80%E1%85%A1%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B32_4%E1%84%90%E1%85%B5%E1%86%B72%E1%84%8C%E1%85%A9_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf)
+
 
 ### 팀 레포지토리
 [Github Team Repository](https://github.com/seoyeonbee/Programmers_DevCourse_DataAnalysis_2nd_Project)
